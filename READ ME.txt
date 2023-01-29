@@ -1,0 +1,14 @@
+*This project is submitted by "Udham Singh" of MDU University.
+*This project was assigned by Netmax Traning Institute.
+The project is a prediction project on face mask detection.
+
+
+Follow the following Step before opening the project file (Backend(Car prediction)).
+
+STEP 1: Extract the folder.
+STEP 2: Open->(Face_Mask_Detection) and wait for some time.
+STEP 3: Before run the code make sure you install modules(Tesnserflow, Opencv).
+STEP 4: Run the code
+
+
+THANKYOU FOR READING IT.
